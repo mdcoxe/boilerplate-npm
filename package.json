@@ -3,7 +3,11 @@
 	"author": "Michael Coxe",
 	"description": "A Project that does something awesome",
 	"keywords": ["freecodecamp", "express", "nodejs"],
+	
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
+		"moment": "^2.10.2",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
